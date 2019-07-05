@@ -9,7 +9,7 @@
 | Aulas                           |            Done            |
 | ------------------------------- | :------------------------: |
 | Criando projeto do zero         |     :white_check_mark:     |
-| ESLint, Prettier & EditorConfig | :eight_pointed_black_star: |
+| ESLint, Prettier & EditorConfig |     :white_check_mark:     |
 | Roteamento no React             | :eight_pointed_black_star: |
 | Styled Components               | :eight_pointed_black_star: |
 | Estilos globais                 | :eight_pointed_black_star: |
