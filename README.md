@@ -15,7 +15,7 @@
 | Estilos globais                 |     :white_check_mark:     |
 | Estilizando página Main         |     :white_check_mark:     |
 | Adicionando repositórios        |     :white_check_mark:     |
-| Listando repositórios           | :eight_pointed_black_star: |
+| Listando repositórios           |     :white_check_mark:     |
 | Utilizando LocalStorage         | :eight_pointed_black_star: |
 | Navegação de rotas              | :eight_pointed_black_star: |
 | Carregando dados da API         | :eight_pointed_black_star: |
