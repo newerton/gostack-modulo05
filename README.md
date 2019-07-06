@@ -6,19 +6,19 @@
 
 # ReactJS
 
-| Aulas                           |            Done            |
-| ------------------------------- | :------------------------: |
-| Criando projeto do zero         |     :white_check_mark:     |
-| ESLint, Prettier & EditorConfig |     :white_check_mark:     |
-| Roteamento no React             |     :white_check_mark:     |
-| Styled Components               |     :white_check_mark:     |
-| Estilos globais                 |     :white_check_mark:     |
-| Estilizando página Main         |     :white_check_mark:     |
-| Adicionando repositórios        |     :white_check_mark:     |
-| Listando repositórios           |     :white_check_mark:     |
-| Utilizando LocalStorage         |     :white_check_mark:     |
-| Navegação de rotas              |     :white_check_mark:     |
-| Carregando dados da API         |     :white_check_mark:     |
-| Definindo PropTypes             |     :white_check_mark:     |
-| Exibindo repositório            |     :white_check_mark:     |
-| Exibindo issues                 | :eight_pointed_black_star: |
+| Aulas                           |        Done        |
+| ------------------------------- | :----------------: |
+| Criando projeto do zero         | :white_check_mark: |
+| ESLint, Prettier & EditorConfig | :white_check_mark: |
+| Roteamento no React             | :white_check_mark: |
+| Styled Components               | :white_check_mark: |
+| Estilos globais                 | :white_check_mark: |
+| Estilizando página Main         | :white_check_mark: |
+| Adicionando repositórios        | :white_check_mark: |
+| Listando repositórios           | :white_check_mark: |
+| Utilizando LocalStorage         | :white_check_mark: |
+| Navegação de rotas              | :white_check_mark: |
+| Carregando dados da API         | :white_check_mark: |
+| Definindo PropTypes             | :white_check_mark: |
+| Exibindo repositório            | :white_check_mark: |
+| Exibindo issues                 | :white_check_mark: |
