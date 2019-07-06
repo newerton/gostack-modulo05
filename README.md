@@ -17,7 +17,7 @@
 | Adicionando repositórios        |     :white_check_mark:     |
 | Listando repositórios           |     :white_check_mark:     |
 | Utilizando LocalStorage         |     :white_check_mark:     |
-| Navegação de rotas              | :eight_pointed_black_star: |
+| Navegação de rotas              |     :white_check_mark:     |
 | Carregando dados da API         | :eight_pointed_black_star: |
 | Definindo PropTypes             | :eight_pointed_black_star: |
 | Exibindo repositório            | :eight_pointed_black_star: |
