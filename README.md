@@ -12,7 +12,7 @@
 | ESLint, Prettier & EditorConfig |     :white_check_mark:     |
 | Roteamento no React             |     :white_check_mark:     |
 | Styled Components               |     :white_check_mark:     |
-| Estilos globais                 | :eight_pointed_black_star: |
+| Estilos globais                 |     :white_check_mark:     |
 | Estilizando página Main         | :eight_pointed_black_star: |
 | Adicionando repositórios        | :eight_pointed_black_star: |
 | Listando repositórios           | :eight_pointed_black_star: |
