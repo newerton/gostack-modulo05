@@ -20,5 +20,5 @@
 | Navegação de rotas              |     :white_check_mark:     |
 | Carregando dados da API         |     :white_check_mark:     |
 | Definindo PropTypes             |     :white_check_mark:     |
-| Exibindo repositório            | :eight_pointed_black_star: |
+| Exibindo repositório            |     :white_check_mark:     |
 | Exibindo issues                 | :eight_pointed_black_star: |
