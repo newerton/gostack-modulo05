@@ -13,8 +13,8 @@
 | Roteamento no React             |     :white_check_mark:     |
 | Styled Components               |     :white_check_mark:     |
 | Estilos globais                 |     :white_check_mark:     |
-| Estilizando página Main         | :eight_pointed_black_star: |
-| Adicionando repositórios        | :eight_pointed_black_star: |
+| Estilizando página Main         |     :white_check_mark:     |
+| Adicionando repositórios        |     :white_check_mark:     |
 | Listando repositórios           | :eight_pointed_black_star: |
 | Utilizando LocalStorage         | :eight_pointed_black_star: |
 | Navegação de rotas              | :eight_pointed_black_star: |
