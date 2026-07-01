@@ -1,10 +1,9 @@
-import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import { Component } from 'react';
 import { Link } from 'react-router-dom';
-import api from '../../services/api';
-
-import { Loading, Owner, IssueList } from './styles';
 import Container from '../../components/Container';
+import api from '../../services/api';
+import { IssueList, Loading, Owner } from './styles';
 
 export default class Repository extends Component {
   static propTypes = {
@@ -60,7 +59,7 @@ export default class Repository extends Component {
         </Owner>
 
         <IssueList>
-          {issues.map(issue => (
+          {issues.map((issue) => (
             <li key={String(issue.id)}>
               <img src={issue.user.avatar_url} alt={issue.user.login} />
               <div>
@@ -72,7 +71,7 @@ export default class Repository extends Component {
                   >
                     {issue.title}
                   </a>
-                  {issue.labels.map(label => (
+                  {issue.labels.map((label) => (
                     <span key={String(label.id)}>{label.name}</span>
                   ))}
                 </strong>

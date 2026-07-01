@@ -1,4 +1,4 @@
-import styled, { keyframes, css } from 'styled-components';
+import styled, { css, keyframes } from 'styled-components';
 
 export const Form = styled.form`
   margin-top: 30px;
@@ -22,7 +22,7 @@ const rotate = keyframes`
     transform: rotate(360deg);
   }
 `;
-export const SubmitButton = styled.button.attrs(props => ({
+export const SubmitButton = styled.button.attrs((props) => ({
   type: 'submit',
   disabled: props.loading,
 }))`
@@ -41,7 +41,7 @@ export const SubmitButton = styled.button.attrs(props => ({
     opacity: 0.6;
   }
 
-  ${props =>
+  ${(props) =>
     props.loading &&
     css`
       svg {

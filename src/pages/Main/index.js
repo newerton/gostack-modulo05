@@ -1,9 +1,9 @@
-import React, { Component } from 'react';
+import { Component } from 'react';
 import { FaGithubAlt, FaPlus, FaSpinner } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import { Form, SubmitButton, List } from './styles';
-import api from '../../services/api';
 import Container from '../../components/Container';
+import api from '../../services/api';
+import { Form, List, SubmitButton } from './styles';
 
 export default class Main extends Component {
   state = {
@@ -27,11 +27,11 @@ export default class Main extends Component {
     }
   }
 
-  handleInputChange = e => {
+  handleInputChange = (e) => {
     this.setState({ newRepo: e.target.value });
   };
 
-  handleSubmit = async e => {
+  handleSubmit = async (e) => {
     e.preventDefault();
 
     this.setState({ loading: true });
@@ -75,7 +75,7 @@ export default class Main extends Component {
         </Form>
 
         <List>
-          {repositories.map(repository => (
+          {repositories.map((repository) => (
             <li key={repository.name}>
               <span>{repository.name}</span>
               <Link to={`/repository/${encodeURIComponent(repository.name)}`}>
