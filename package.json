@@ -31,7 +31,7 @@
     ]
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.5.14",
+    "@biomejs/biome": "^2.5.15",
     "prettier": "^3.9.9"
   },
   "overrides": {
